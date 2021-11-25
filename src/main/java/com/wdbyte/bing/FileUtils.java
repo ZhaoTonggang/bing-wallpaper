@@ -59,7 +59,7 @@ public class FileUtils {
         if (!Files.exists(bingPath)) {
             Files.createFile(bingPath);
         }
-        Files.write(bingPath, "## Bing Wallpaper".getBytes());
+        Files.write(bingPath, "## 必应壁纸".getBytes());
         Files.write(bingPath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         for (Images images : imgList) {
             Files.write(bingPath, images.formatMarkdown().getBytes(), StandardOpenOption.APPEND);
@@ -107,7 +107,7 @@ public class FileUtils {
             Files.createFile(readmePath);
         }
         //List<String> allLines = Files.readAllLines(path);
-        Files.write(readmePath, "## Bing Wallpaper".getBytes());
+        Files.write(readmePath, "## 必应壁纸".getBytes());
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, imgList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
