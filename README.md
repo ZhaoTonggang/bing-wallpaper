@@ -1,4 +1,4 @@
-## Bing Wallpaper
+## 必应壁纸
 ![](https://cn.bing.com/th?id=OHR.SquirrelsCairngorms_EN-US5854811896_UHD.jpg&w=1000)Today: [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelsCairngorms_EN-US5854811896_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
